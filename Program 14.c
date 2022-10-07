@@ -107,5 +107,3 @@ void main()
     }
     getch();
 }
-Footer
-© 2022 GitHub, Inc.
